@@ -1,0 +1,2 @@
+# SayiUretme
+ rasgele sayi üretme
